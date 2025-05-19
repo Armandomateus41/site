@@ -1,5 +1,5 @@
-import Menu from "@/componente/Menu";
-import Footer from "@/componente/Footer";
+import Menu from "@/components/Menu";
+import Footer from "@/components/Footer";
 const contact = () => {
     return (
        <main>
